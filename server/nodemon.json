@@ -1,0 +1,7 @@
+{
+    "env": {
+        "DB_USER": "giufra2009",
+        "DB_PASSWORD": "bZ29IEHdHUsmkDyX",
+        "DB_NAME":"blogs"
+    }
+}
